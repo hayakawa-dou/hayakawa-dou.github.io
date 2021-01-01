@@ -16,6 +16,10 @@ header{
     background-image:url(top.png);
     background-size: cover;
 }
+.top-wrapper h1{
+    font-size: 30px;
+    margin-top: 0;
+
 .contents-1{
     max-width: 1000px;
     margin: 0 auto;

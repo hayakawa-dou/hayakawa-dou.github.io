@@ -4,7 +4,10 @@ header{
     background-color: darkblue;
 }
 
-.header-logo{
+.header-logo{ 
+    font-size: 35px;
+    line-height: 60px;
+    margin-left: 20px;
     color:white;
 }
 
@@ -13,6 +16,23 @@ header{
     background-image:url(top.png);
     background-size: cover;
 }
+.contents-1{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.contents-1 h2{
+    font-size: 40px;
+    text-align: center;
+}
+.contents-1 h3{
+    font: size 20px;
+    margin:0;
+}
+.contents-1 p{
+    font-size: 20px;
+    margin: 0;
+}
+
 
 footer{
     height: 60px;
